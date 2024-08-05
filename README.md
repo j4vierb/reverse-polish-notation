@@ -6,11 +6,11 @@ In this project you will find an easy implementation of a calculator that uses r
 
 You can execute the following commands defined in `Makefile`.
 
-```bash
-make all # to compile all the source files and put in the executable file
+```sh
+$> make all # to compile all the source files and put in the executable file
 
-make clean # remove all the `*.o` files in the repository
+$> make clean # remove all the `*.o` files in the repository
 
-make run # run the executable
+$> make run # run the executable
 ```
 
